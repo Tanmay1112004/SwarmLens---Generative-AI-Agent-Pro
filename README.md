@@ -63,7 +63,9 @@ It intelligently fetches relevant information from a local knowledge base, gener
 
 
 ![Insert Demo Image 1 — Q&A Interface](https://github.com/Tanmay1112004/SwarmLens---Generative-AI-Agent-Pro/blob/main/scrennshots/Screenshot%202025-11-06%20131114.png)
+
 ![Insert Demo Image 2 — Retrieval Context View](https://github.com/Tanmay1112004/SwarmLens---Generative-AI-Agent-Pro/blob/main/scrennshots/Screenshot%202025-11-06%20132911.png)
+
 ![Insert Demo Image 3 — Reflection & Confidence Metrics](https://github.com/Tanmay1112004/SwarmLens---Generative-AI-Agent-Pro/blob/main/scrennshots/Screenshot%202025-11-06%20132957.png)
 
 
