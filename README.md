@@ -97,7 +97,7 @@ It intelligently fetches relevant information from a local knowledge base, gener
 
 ```bash
 # Clone the project
-git clone https://github.com/your-repo/swarmlens-genai-agent.git
+git clone https://github.com//swarmlens-genai-agent.git
 cd swarmlens-genai-agent
 
 # Create virtual environment
