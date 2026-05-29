@@ -27,6 +27,10 @@ It intelligently fetches relevant information from a local knowledge base, gener
 
 ---
 
+# Demo Images
+
+---
+
 ## ⚙️ Core Features
 
 ### 🤖 Multi-AI Model Support
