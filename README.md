@@ -29,6 +29,7 @@ It intelligently fetches relevant information from a local knowledge base, gener
 
 # Demo Images
 
+![demo](https://github.com/Tanmay1112004/SwarmLens---Generative-AI-Agent-Pro/blob/main/scrennshots/Screenshot%202025-11-06%20131114.png)
 ---
 
 ## ⚙️ Core Features
